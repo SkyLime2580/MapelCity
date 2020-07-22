@@ -1,2 +1,3 @@
-# MapelCity
-The MapelCity Official WebSite Of The Z3 Minecraft BedRock Edition Server.
+# 枫城   
+Z3服务器枫城官方网站。   
+接受来自枫城的最新讯息及政策吧!
