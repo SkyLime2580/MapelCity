@@ -16,5 +16,5 @@ A Clear And Concise Description Of What You Expected To Happen.
 请您对期望得到的内容进行清晰而简洁的描述。
 
 **Additional Context - 附加内容**
-Add Any Other Context About The Suggestions Here.
+Add Any Other Context About The Consulation Here.
 您可以在此处附加有关咨询的任何其它内容。

@@ -13,7 +13,7 @@ A Clear And Concise Description Of What The Suggestion Is.
 
 **Expected Behavior - 期望行为**
 A Clear And Concise Description Of What You Expected To Happen.
-请您对期望发生的事情进行清晰而简洁的描述。
+请您对期望我们做的事情进行清晰而简洁的描述。
 
 **Additional Context - 附加内容**
 Add Any Other Context About The Suggestions Here.
